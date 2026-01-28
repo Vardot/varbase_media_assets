@@ -1,0 +1,33 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: c7438fdf-eb8d-4e75-924b-2e5932fca5e3
+  bundle: image
+  default_langcode: en
+  depends:
+    7cd9e722-c4a8-45ea-98e0-e19c7feb921b: file
+default:
+  revision_user:
+  - target_id: 1
+  revision_log_message:
+  - value: Created new Image
+  status:
+  - value: true
+  uid:
+  - target_id: 1
+  name:
+  - value: Mobile app with car selection and map
+  created:
+  - value: 1642682146
+  revision_translation_affected:
+  - value: true
+  path:
+  - alias: ''
+    langcode: en
+    pathauto: 1
+  field_media_image:
+  - entity: 7cd9e722-c4a8-45ea-98e0-e19c7feb921b
+    alt: Mobile app showing a car selection interface with a map background.
+    title: Mobile app showing a car selection interface with a map background.
+    width: 725
+    height: 1467

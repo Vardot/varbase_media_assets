@@ -1,0 +1,33 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 10a5e841-dcfe-4875-ac3f-deaa801d59f5
+  bundle: image
+  default_langcode: en
+  depends:
+    0f856c9c-7e84-4d5b-b0a4-dce34930c196: file
+default:
+  revision_user:
+  - target_id: 1
+  revision_log_message:
+  - value: Created new Image
+  status:
+  - value: true
+  uid:
+  - target_id: 1
+  name:
+  - value: 'Figure: Pointing at blue percentage symbol'
+  created:
+  - value: 1642682146
+  revision_translation_affected:
+  - value: true
+  path:
+  - alias: ''
+    langcode: en
+    pathauto: 1
+  field_media_image:
+  - entity: 0f856c9c-7e84-4d5b-b0a4-dce34930c196
+    alt: Person pointing at a blue percentage symbol.
+    title: Pointing at blue percentage symbol
+    width: 2400
+    height: 2646

@@ -1,0 +1,33 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: e8dea4f3-c3ad-43bc-8ef8-50b0833b18b3
+  bundle: image
+  default_langcode: en
+  depends:
+    90bf5453-afc1-48fa-8fbd-7199fccd2066: file
+default:
+  revision_user:
+  - target_id: 1
+  revision_log_message:
+  - value: Created new Image
+  status:
+  - value: true
+  uid:
+  - target_id: 1
+  name:
+  - value: 'Team 3: Red-haired woman with glasses indoors'
+  created:
+  - value: 1642682146
+  revision_translation_affected:
+  - value: true
+  path:
+  - alias: ''
+    langcode: en
+    pathauto: 1
+  field_media_image:
+  - entity: 90bf5453-afc1-48fa-8fbd-7199fccd2066
+    alt: Red-haired woman in glasses, green shirt, indoor setting.
+    title: Red-haired woman in glasses, green shirt, indoor setting.
+    width: 600
+    height: 800
