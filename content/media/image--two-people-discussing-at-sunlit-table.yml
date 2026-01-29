@@ -8,26 +8,35 @@ _meta:
     ac01299f-ef92-4287-833c-8359419fb1c1: file
 default:
   revision_user:
-  - target_id: 1
+    -
+      target_id: 1
   revision_log_message:
-  - value: Created new Image
+    -
+      value: 'Created new Image'
   status:
-  - value: true
+    -
+      value: true
   uid:
-  - target_id: 1
+    -
+      target_id: 1
   name:
-  - value: Two people discussing at sunlit table
+    -
+      value: 'Two people discussing at sunlit table'
   created:
-  - value: 1713439253
+    -
+      value: 1713439253
   revision_translation_affected:
-  - value: true
+    -
+      value: true
   path:
-  - alias: ''
-    langcode: en
-    pathauto: 1
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1
   field_media_image:
-  - entity: ac01299f-ef92-4287-833c-8359419fb1c1
-    alt: Two people sit at a table in discussion, sunlight filters through blinds.
-    title: Two people discussing at sunlit table
-    width: 2048
-    height: 1366
+    -
+      entity: ac01299f-ef92-4287-833c-8359419fb1c1
+      alt: 'Two people sit at a table in discussion, sunlight filters through blinds.'
+      title: 'Two people discussing at sunlit table'
+      width: 2048
+      height: 1366

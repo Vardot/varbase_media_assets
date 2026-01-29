@@ -8,27 +8,35 @@ _meta:
     dc21ec79-9feb-4e65-81dc-6da03c9a6f42: file
 default:
   revision_user:
-  - target_id: 1
+    -
+      target_id: 1
   revision_log_message:
-  - value: Created new Image
+    -
+      value: 'Created new Image'
   status:
-  - value: true
+    -
+      value: true
   uid:
-  - target_id: 1
+    -
+      target_id: 1
   name:
-  - value: 'Avatar: Man in sunglasses and hat looking up'
+    -
+      value: 'Avatar: Man in sunglasses and hat looking up'
   created:
-  - value: 1642682146
+    -
+      value: 1642682146
   revision_translation_affected:
-  - value: true
+    -
+      value: true
   path:
-  - alias: ''
-    langcode: en
-    pathauto: 1
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1
   field_media_image:
-  - entity: dc21ec79-9feb-4e65-81dc-6da03c9a6f42
-    alt: Man wearing sunglasses and a hat, gazing upwards against a textured orange
-      wall.
-    title: Man in sunglasses and hat looking up
-    width: 500
-    height: 500
+    -
+      entity: dc21ec79-9feb-4e65-81dc-6da03c9a6f42
+      alt: 'Man wearing sunglasses and a hat, gazing upwards against a textured orange wall.'
+      title: 'Man in sunglasses and hat looking up'
+      width: 500
+      height: 500

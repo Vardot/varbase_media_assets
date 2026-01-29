@@ -8,26 +8,35 @@ _meta:
     040e3490-dd75-41a7-b54a-b15d747da209: file
 default:
   revision_user:
-  - target_id: 1
+    -
+      target_id: 1
   revision_log_message:
-  - value: Created new Image
+    -
+      value: 'Created new Image'
   status:
-  - value: true
+    -
+      value: true
   uid:
-  - target_id: 1
+    -
+      target_id: 1
   name:
-  - value: 'Figure: Person sitting in blue shirt and white shoes'
+    -
+      value: 'Figure: Person sitting in blue shirt and white shoes'
   created:
-  - value: 1642682146
+    -
+      value: 1642682146
   revision_translation_affected:
-  - value: true
+    -
+      value: true
   path:
-  - alias: ''
-    langcode: en
-    pathauto: 1
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1
   field_media_image:
-  - entity: 040e3490-dd75-41a7-b54a-b15d747da209
-    alt: Graphic of a person sitting, wearing a blue shirt and white shoes.
-    title: Person sitting in blue shirt and white shoes
-    width: 303
-    height: 417
+    -
+      entity: 040e3490-dd75-41a7-b54a-b15d747da209
+      alt: 'Graphic of a person sitting, wearing a blue shirt and white shoes.'
+      title: 'Person sitting in blue shirt and white shoes'
+      width: 303
+      height: 417

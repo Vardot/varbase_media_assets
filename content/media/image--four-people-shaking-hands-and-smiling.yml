@@ -8,26 +8,35 @@ _meta:
     97ff4e8c-3ab3-4bc0-8839-73602058dcea: file
 default:
   revision_user:
-  - target_id: 1
+    -
+      target_id: 1
   revision_log_message:
-  - value: Created new Image
+    -
+      value: 'Created new Image'
   status:
-  - value: true
+    -
+      value: true
   uid:
-  - target_id: 1
+    -
+      target_id: 1
   name:
-  - value: Four people shaking hands and smiling
+    -
+      value: 'Four people shaking hands and smiling'
   created:
-  - value: 1642682146
+    -
+      value: 1642682146
   revision_translation_affected:
-  - value: true
+    -
+      value: true
   path:
-  - alias: ''
-    langcode: en
-    pathauto: 1
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1
   field_media_image:
-  - entity: 97ff4e8c-3ab3-4bc0-8839-73602058dcea
-    alt: Four people having a cordial handshake and smiling.
-    title: Four people having a cordial handshake and smiling.
-    width: 1920
-    height: 1080
+    -
+      entity: 97ff4e8c-3ab3-4bc0-8839-73602058dcea
+      alt: 'Four people having a cordial handshake and smiling.'
+      title: 'Four people having a cordial handshake and smiling.'
+      width: 1920
+      height: 1080
