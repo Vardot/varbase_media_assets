@@ -17,8 +17,7 @@
     "source": "http://cgit.drupalcode.org/varbase_media_assets"
   },
   "require": {
-    "drupal/core": "~11.3.0",
-    "drupal/varbase_media_base": "1.0.x-dev"
+    "drupal/core": "~11.3.0"
   },
   "version": "1.0.x-dev"
 }
