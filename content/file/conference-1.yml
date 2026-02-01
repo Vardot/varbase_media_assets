@@ -10,9 +10,6 @@ default:
   filename:
     -
       value: conference-1.webp
-  uri:
-    -
-      value: 'public://2026-01/conference-1.webp'
   filemime:
     -
       value: image/webp
@@ -21,7 +18,3 @@ default:
       value: 1556576
   status:
     -
-      value: true
-  created:
-    -
-      value: 1713435444

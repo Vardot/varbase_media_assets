@@ -10,9 +10,6 @@ default:
   filename:
     -
       value: business-meeting.mp4
-  uri:
-    -
-      value: 'public://2026-01/business-meeting.mp4'
   filemime:
     -
       value: video/mp4
@@ -22,6 +19,4 @@ default:
   status:
     -
       value: true
-  created:
-    -
-      value: 1642682146
+

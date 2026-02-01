@@ -10,9 +10,6 @@ default:
   filename:
     -
       value: startup-3.jpg
-  uri:
-    -
-      value: 'public://2026-01/startup-3.jpg'
   filemime:
     -
       value: image/jpeg
@@ -22,6 +19,3 @@ default:
   status:
     -
       value: true
-  created:
-    -
-      value: 1642682146

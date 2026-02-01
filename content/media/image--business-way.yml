@@ -22,9 +22,6 @@ default:
   name:
     -
       value: 'Business way'
-  created:
-    -
-      value: 1713435038
   path:
     -
       alias: ''

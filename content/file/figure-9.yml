@@ -10,9 +10,6 @@ default:
   filename:
     -
       value: figure-9.png
-  uri:
-    -
-      value: 'public://2026-01/figure-9.png'
   filemime:
     -
       value: image/png
@@ -22,6 +19,4 @@ default:
   status:
     -
       value: true
-  created:
-    -
-      value: 1642682146
+
