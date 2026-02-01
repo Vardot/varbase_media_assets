@@ -10,6 +10,9 @@ default:
   filename:
     -
       value: meeting-1.webp
+  uri:
+    -
+      value: 'public://2026-01/meeting-1.webp'
   filemime:
     -
       value: image/webp
@@ -19,4 +22,6 @@ default:
   status:
     -
       value: true
-
+  created:
+    -
+      value: 1713438775

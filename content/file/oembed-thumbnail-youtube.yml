@@ -1,7 +1,7 @@
 _meta:
   version: '1.0'
   entity_type: file
-  uuid: 3582ba01-b87a-489c-a63e-d336852ac355
+  uuid: 0691c4a2-ba06-48cf-bf94-decaec4a6d3b
   default_langcode: en
 default:
   uid:
@@ -9,19 +9,19 @@ default:
       target_id: 1
   filename:
     -
-      value: bg-image-2.jpg
+      value: TsdT5FNEvGMWQTPHtjra3VlBGY2X_Da3LQZEyy9HtAM.jpg
   uri:
     -
-      value: 'public://2026-01/bg-image-2.jpg'
+      value: 'public://oembed_thumbnails/TsdT5FNEvGMWQTPHtjra3VlBGY2X_Da3LQZEyy9HtAM.jpg'
   filemime:
     -
       value: image/jpeg
   filesize:
     -
-      value: 198827
+      value: 34192
   status:
     -
       value: true
   created:
     -
-      value: 1642682146
+      value: 1713432296

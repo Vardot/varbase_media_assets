@@ -22,6 +22,12 @@ default:
   name:
     -
       value: 'Three people working at desk with computer and notebooks'
+  created:
+    -
+      value: 1713438321
+  revision_translation_affected:
+    -
+      value: true
   path:
     -
       alias: ''

@@ -10,6 +10,9 @@ default:
   filename:
     -
       value: business-meeting.png
+  uri:
+    -
+      value: 'public://2026-01/business-meeting.png'
   filemime:
     -
       value: image/png
@@ -19,3 +22,6 @@ default:
   status:
     -
       value: true
+  created:
+    -
+      value: 1642682146

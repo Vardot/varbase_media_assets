@@ -10,6 +10,9 @@ default:
   filename:
     -
       value: business-welcome.webp
+  uri:
+    -
+      value: 'public://2026-01/business-welcome.webp'
   filemime:
     -
       value: image/webp
@@ -19,3 +22,6 @@ default:
   status:
     -
       value: true
+  created:
+    -
+      value: 1713439586

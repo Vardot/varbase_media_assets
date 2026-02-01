@@ -22,6 +22,12 @@ default:
   name:
     -
       value: 'Laptop showing code editor with syntax highlighting'
+  created:
+    -
+      value: 1713438605
+  revision_translation_affected:
+    -
+      value: true
   path:
     -
       alias: ''
