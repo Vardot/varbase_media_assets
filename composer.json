@@ -19,5 +19,5 @@
   "require": {
     "drupal/core": "~11.3.0"
   },
-  "version": "1.0.x-dev"
+  "version": "1.0.0-alpha1"
 }
