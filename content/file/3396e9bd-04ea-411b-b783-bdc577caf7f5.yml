@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 3396e9bd-04ea-411b-b783-bdc577caf7f5
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: varbase-blog-banner.png
+  uri:
+    -
+      value: 'public://2026-05/varbase-blog-banner.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 738345
+  status:
+    -
+      value: true

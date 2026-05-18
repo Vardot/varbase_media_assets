@@ -1,0 +1,38 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: d1fda212-7256-4360-b7cc-70d48085d99e
+  bundle: image
+  default_langcode: en
+  depends:
+    ec2249f7-0bc7-4c66-b164-19d2d915aa50: file
+default:
+  revision_user:
+    -
+      target_id: 1
+  revision_log_message:
+    -
+      value: 'Created new Image'
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: 'Varbase Contact Banner'
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      langcode: en
+      alias: null
+  field_media_image:
+    -
+      alt: Contact us page header banner
+      title: ''
+      width: 1300
+      height: 400
+      entity: ec2249f7-0bc7-4c66-b164-19d2d915aa50

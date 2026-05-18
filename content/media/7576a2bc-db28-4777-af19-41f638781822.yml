@@ -1,0 +1,38 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 7576a2bc-db28-4777-af19-41f638781822
+  bundle: image
+  default_langcode: en
+  depends:
+    3396e9bd-04ea-411b-b783-bdc577caf7f5: file
+default:
+  revision_user:
+    -
+      target_id: 1
+  revision_log_message:
+    -
+      value: 'Created new Image'
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: 'Varbase Blog Banner'
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      langcode: en
+      alias: null
+  field_media_image:
+    -
+      alt: Blog page header banner
+      title: ''
+      width: 1300
+      height: 400
+      entity: 3396e9bd-04ea-411b-b783-bdc577caf7f5

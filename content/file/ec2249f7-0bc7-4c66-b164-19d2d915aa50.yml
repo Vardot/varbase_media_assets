@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: ec2249f7-0bc7-4c66-b164-19d2d915aa50
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: varbase-contact-banner.png
+  uri:
+    -
+      value: 'public://2026-05/varbase-contact-banner.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 473093
+  status:
+    -
+      value: true
