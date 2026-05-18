@@ -1,0 +1,38 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 79c88ce1-3513-4ac2-a597-1f3512f4f869
+  bundle: image
+  default_langcode: en
+  depends:
+    eb511b83-295e-495d-a996-c74f6685facc: file
+default:
+  revision_user:
+    -
+      target_id: 1
+  revision_log_message:
+    -
+      value: 'Updated the Image field'
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: 'Varbase Hero Slide'
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      langcode: en
+      alias: null
+  field_media_image:
+    -
+      alt: Varbase digital design system hero visual
+      title: ''
+      width: 1300
+      height: 700
+      entity: eb511b83-295e-495d-a996-c74f6685facc

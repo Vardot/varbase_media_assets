@@ -1,0 +1,38 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 687598bb-3c8b-4ae2-a164-abe196ee224f
+  bundle: image
+  default_langcode: en
+  depends:
+    1a296a43-cf81-4f76-935d-ed0c2d82c1d4: file
+default:
+  revision_user:
+    -
+      target_id: 1
+  revision_log_message:
+    -
+      value: 'Created new Image'
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: 'Varbase Feature Union Graphic'
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      langcode: en
+      alias: null
+  field_media_image:
+    -
+      alt: Varbase features union illustration
+      title: ''
+      width: 44
+      height: 40
+      entity: 1a296a43-cf81-4f76-935d-ed0c2d82c1d4

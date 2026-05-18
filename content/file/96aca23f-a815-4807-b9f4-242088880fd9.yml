@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 96aca23f-a815-4807-b9f4-242088880fd9
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: feature.png
+  uri:
+    -
+      value: 'public://2026-05/feature_1.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 1724
+  status:
+    -
+      value: true

@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: eb511b83-295e-495d-a996-c74f6685facc
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: varbase-hero-slide.png
+  uri:
+    -
+      value: 'public://2026-04/varbase-hero-slide.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 1606919
+  status:
+    -
+      value: true

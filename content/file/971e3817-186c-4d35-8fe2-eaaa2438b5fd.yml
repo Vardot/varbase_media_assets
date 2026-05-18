@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 971e3817-186c-4d35-8fe2-eaaa2438b5fd
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: varbase-ai-chatbot-3.png
+  uri:
+    -
+      value: 'public://2026-05/varbase-ai-chatbot-3.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 462818
+  status:
+    -
+      value: true

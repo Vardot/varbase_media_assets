@@ -1,0 +1,38 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 5200fb24-f055-401f-a089-986beab888cf
+  bundle: image
+  default_langcode: en
+  depends:
+    1ed03271-fb0a-4ef9-a392-53beaac4b6c0: file
+default:
+  revision_user:
+    -
+      target_id: 1
+  revision_log_message:
+    -
+      value: 'Created new Image'
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: feature.png
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      langcode: en
+      alias: null
+  field_media_image:
+    -
+      alt: feature
+      title: ''
+      width: 48
+      height: 48
+      entity: 1ed03271-fb0a-4ef9-a392-53beaac4b6c0

@@ -1,0 +1,38 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 16074811-b54d-49d7-acd7-e251794d3170
+  bundle: image
+  default_langcode: en
+  depends:
+    971e3817-186c-4d35-8fe2-eaaa2438b5fd: file
+default:
+  revision_user:
+    -
+      target_id: 1
+  revision_log_message:
+    -
+      value: 'Created new Image'
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: 'Varbase AI Chatbot 3'
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      langcode: en
+      alias: null
+  field_media_image:
+    -
+      alt: RAG-based Drupal AI chatbot knowledge sources
+      title: ''
+      width: 650
+      height: 365
+      entity: 971e3817-186c-4d35-8fe2-eaaa2438b5fd
