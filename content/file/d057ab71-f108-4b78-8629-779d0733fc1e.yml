@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: d057ab71-f108-4b78-8629-779d0733fc1e
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: icon-features-5.png
+  uri:
+    -
+      value: 'public://2026-05/icon-features-5.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 1400
+  status:
+    -
+      value: true

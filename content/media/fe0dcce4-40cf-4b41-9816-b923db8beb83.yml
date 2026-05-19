@@ -1,0 +1,38 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: fe0dcce4-40cf-4b41-9816-b923db8beb83
+  bundle: image
+  default_langcode: en
+  depends:
+    be5e970d-ee14-46ff-bb19-a02671c0c7f7: file
+default:
+  revision_user:
+    -
+      target_id: 1
+  revision_log_message:
+    -
+      value: 'Created new Image'
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: icon-features-4.png
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      langcode: en
+      alias: null
+  field_media_image:
+    -
+      alt: icon-features
+      title: ''
+      width: 48
+      height: 48
+      entity: be5e970d-ee14-46ff-bb19-a02671c0c7f7
