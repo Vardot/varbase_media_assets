@@ -1,15 +1,15 @@
 _meta:
   version: '1.0'
   entity_type: media
-  uuid: fe0dcce4-40cf-4b41-9816-b923db8beb83
+  uuid: 82595ed9-bb81-48a0-94ea-369965b7b4c1
   bundle: image
   default_langcode: en
   depends:
-    be5e970d-ee14-46ff-bb19-a02671c0c7f7: file
+    d8460e00-634c-4c5b-8a92-0c2ceec3bc01: file
 default:
   revision_user:
     -
-      target_id: 1
+      target_id: 0
   revision_log_message:
     -
       value: 'Created new Image'
@@ -18,10 +18,10 @@ default:
       value: true
   uid:
     -
-      target_id: 1
+      target_id: 0
   name:
     -
-      value: icon-features-4.png
+      value: 'Blue light trails'
   revision_translation_affected:
     -
       value: true
@@ -31,8 +31,8 @@ default:
       alias: null
   field_media_image:
     -
-      alt: icon-features
+      alt: 'Abstract light trails'
       title: ''
-      width: 48
-      height: 48
-      entity: be5e970d-ee14-46ff-bb19-a02671c0c7f7
+      width: 1200
+      height: 1800
+      entity: d8460e00-634c-4c5b-8a92-0c2ceec3bc01

@@ -1,0 +1,21 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 5b2aba04-84ad-45a8-9d68-ceeda017fe2c
+  default_langcode: en
+default:
+  filename:
+    -
+      value: team-smiling-at-laptop.webp
+  uri:
+    -
+      value: 'public://2026-06/team-smiling-at-laptop.webp'
+  filemime:
+    -
+      value: image/webp
+  filesize:
+    -
+      value: 61104
+  status:
+    -
+      value: true

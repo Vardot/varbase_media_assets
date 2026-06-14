@@ -1,0 +1,21 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 0177f1f7-cd70-40dd-b7f2-954e6f9d801f
+  default_langcode: en
+default:
+  filename:
+    -
+      value: office-building-entrance.webp
+  uri:
+    -
+      value: 'public://2026-06/office-building-entrance.webp'
+  filemime:
+    -
+      value: image/webp
+  filesize:
+    -
+      value: 298296
+  status:
+    -
+      value: true

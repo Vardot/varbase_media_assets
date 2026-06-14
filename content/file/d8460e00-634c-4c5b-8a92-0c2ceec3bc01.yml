@@ -1,0 +1,21 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: d8460e00-634c-4c5b-8a92-0c2ceec3bc01
+  default_langcode: en
+default:
+  filename:
+    -
+      value: blue-light-trails.webp
+  uri:
+    -
+      value: 'public://2026-06/blue-light-trails.webp'
+  filemime:
+    -
+      value: image/webp
+  filesize:
+    -
+      value: 30504
+  status:
+    -
+      value: true

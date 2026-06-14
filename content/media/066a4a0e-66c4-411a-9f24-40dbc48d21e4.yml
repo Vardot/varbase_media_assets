@@ -1,15 +1,15 @@
 _meta:
   version: '1.0'
   entity_type: media
-  uuid: 695eb435-3fde-4cb8-847f-0ebcab829099
+  uuid: 066a4a0e-66c4-411a-9f24-40dbc48d21e4
   bundle: image
   default_langcode: en
   depends:
-    d057ab71-f108-4b78-8629-779d0733fc1e: file
+    5a67d435-a946-4c25-a5fd-f2379f46560a: file
 default:
   revision_user:
     -
-      target_id: 1
+      target_id: 0
   revision_log_message:
     -
       value: 'Created new Image'
@@ -18,10 +18,10 @@ default:
       value: true
   uid:
     -
-      target_id: 1
+      target_id: 0
   name:
     -
-      value: icon-features-5.png
+      value: 'Colleagues reviewing a document on a tablet'
   revision_translation_affected:
     -
       value: true
@@ -31,8 +31,8 @@ default:
       alias: null
   field_media_image:
     -
-      alt: icon-features
+      alt: 'Friendly support agent with headset'
       title: ''
-      width: 48
-      height: 48
-      entity: d057ab71-f108-4b78-8629-779d0733fc1e
+      width: 1600
+      height: 1070
+      entity: 5a67d435-a946-4c25-a5fd-f2379f46560a

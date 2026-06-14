@@ -1,0 +1,21 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: fb67b53e-582b-4530-bb25-e8bcead223f1
+  default_langcode: en
+default:
+  filename:
+    -
+      value: developer-working-late-office.webp
+  uri:
+    -
+      value: 'public://2026-06/developer-working-late-office.webp'
+  filemime:
+    -
+      value: image/webp
+  filesize:
+    -
+      value: 17826
+  status:
+    -
+      value: true

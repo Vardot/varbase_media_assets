@@ -1,15 +1,15 @@
 _meta:
   version: '1.0'
   entity_type: media
-  uuid: 687598bb-3c8b-4ae2-a164-abe196ee224f
+  uuid: 96101fa7-b093-4238-9259-38f22da6fa9c
   bundle: image
   default_langcode: en
   depends:
-    1a296a43-cf81-4f76-935d-ed0c2d82c1d4: file
+    fc33ecab-1c3d-4287-bd73-3927abb86a49: file
 default:
   revision_user:
     -
-      target_id: 1
+      target_id: 0
   revision_log_message:
     -
       value: 'Created new Image'
@@ -18,10 +18,10 @@ default:
       value: true
   uid:
     -
-      target_id: 1
+      target_id: 0
   name:
     -
-      value: 'Varbase Feature Union Graphic'
+      value: 'Team meeting with laptops'
   revision_translation_affected:
     -
       value: true
@@ -31,8 +31,8 @@ default:
       alias: null
   field_media_image:
     -
-      alt: Varbase features union illustration
+      alt: 'Team collaborating with laptops'
       title: ''
-      width: 44
-      height: 40
-      entity: 1a296a43-cf81-4f76-935d-ed0c2d82c1d4
+      width: 1600
+      height: 1069
+      entity: fc33ecab-1c3d-4287-bd73-3927abb86a49

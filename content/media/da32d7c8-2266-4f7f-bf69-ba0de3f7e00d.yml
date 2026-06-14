@@ -1,15 +1,15 @@
 _meta:
   version: '1.0'
   entity_type: media
-  uuid: 5200fb24-f055-401f-a089-986beab888cf
+  uuid: da32d7c8-2266-4f7f-bf69-ba0de3f7e00d
   bundle: image
   default_langcode: en
   depends:
-    1ed03271-fb0a-4ef9-a392-53beaac4b6c0: file
+    0177f1f7-cd70-40dd-b7f2-954e6f9d801f: file
 default:
   revision_user:
     -
-      target_id: 1
+      target_id: 0
   revision_log_message:
     -
       value: 'Created new Image'
@@ -18,10 +18,10 @@ default:
       value: true
   uid:
     -
-      target_id: 1
+      target_id: 0
   name:
     -
-      value: feature.png
+      value: 'Office building entrance'
   revision_translation_affected:
     -
       value: true
@@ -31,8 +31,8 @@ default:
       alias: null
   field_media_image:
     -
-      alt: feature
+      alt: 'Modern enterprise building entrance'
       title: ''
-      width: 48
-      height: 48
-      entity: 1ed03271-fb0a-4ef9-a392-53beaac4b6c0
+      width: 1600
+      height: 900
+      entity: 0177f1f7-cd70-40dd-b7f2-954e6f9d801f

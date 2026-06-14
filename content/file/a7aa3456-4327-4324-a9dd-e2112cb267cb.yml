@@ -1,0 +1,21 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: a7aa3456-4327-4324-a9dd-e2112cb267cb
+  default_langcode: en
+default:
+  filename:
+    -
+      value: team-collaborating-laptop.webp
+  uri:
+    -
+      value: 'public://2026-06/team-collaborating-laptop.webp'
+  filemime:
+    -
+      value: image/webp
+  filesize:
+    -
+      value: 27476
+  status:
+    -
+      value: true

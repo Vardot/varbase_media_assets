@@ -1,0 +1,21 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 5a67d435-a946-4c25-a5fd-f2379f46560a
+  default_langcode: en
+default:
+  filename:
+    -
+      value: colleagues-reviewing-tablet.webp
+  uri:
+    -
+      value: 'public://2026-06/colleagues-reviewing-tablet.webp'
+  filemime:
+    -
+      value: image/webp
+  filesize:
+    -
+      value: 33674
+  status:
+    -
+      value: true
