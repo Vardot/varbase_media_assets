@@ -1,6 +1,9 @@
 [![Varbase](https://raw.githubusercontent.com/Vardot/varbase/11.0.x/images/varbase-logo.png)](https://www.drupal.org/project/varbase)
 
 # Varbase Media Assets
+[![pipeline status](https://git.drupalcode.org/project/varbase_media_assets/badges/1.0.x/pipeline.svg)](https://git.drupalcode.org/project/varbase_media_assets/-/pipelines)
+[![Varbase Media Assets](https://img.shields.io/badge/Varbase%20Media%20Assets-1.0.0--alpha2-0d6efc?labelColor=001d38&style=flat-square)](https://git.drupalcode.org/project/varbase_media_assets/-/pipelines?ref=1.0.0-alpha2)
+[![Automated Functional Testing](https://git.drupalcode.org/project/varbase_project/badges/11.0.x/pipeline.svg)](https://git.drupalcode.org/project/varbase_project/-/pipelines)
 
 A recipe to manage importing default demo media assets for Varbase Media Types.
 
