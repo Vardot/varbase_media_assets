@@ -1,0 +1,14 @@
+name: 'Varbase Media Assets - Remote Video Samples'
+description: >-
+  Optional demo content for the "Remote video" (oEmbed) media type: a sample
+  Vimeo video and a sample YouTube video. This content is intentionally kept
+  out of the main "Varbase Media Assets" recipe and is not applied
+  automatically, because validating an oEmbed URL requires Drupal core to make
+  a live network request to the oEmbed provider APIs (oembed.com, vimeo.com,
+  youtube.com) during content import. That live request has no retry and a
+  short timeout, so it can fail intermittently during an unattended
+  `drush site:install`, aborting the whole install. Apply this recipe manually
+  on a running site, once network access is available and confirmed, with:
+  `drush recipe <path-to-this-directory>`. See the parent project's README.md
+  for details.
+type: 'Varbase Media'

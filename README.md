@@ -30,9 +30,30 @@ drush recipe varbase_media_assets
 
 This recipe includes:
 - Demo image files (PNG, JPG, WebP formats)
-- Demo video files (MP4, remote video links)
+- A demo local video file (MP4)
 - Pre-configured media entities for all Varbase Media Types
 - Content ready for use in development and testing environments
+
+### Optional: Remote video (oEmbed) samples
+
+A sample Vimeo video and a sample YouTube video for the "Remote video" media
+type are **not** included in the default recipe above. Importing a "Remote
+video" media item requires Drupal core to make a live network request to the
+oEmbed provider APIs (`oembed.com`, `vimeo.com`, `youtube.com`) to validate
+the URL. That request has a short timeout and no retry, so shipping it as
+part of the default, unattended `drush site:install` path made fresh
+installs of this recipe fail intermittently (see
+[#3608868](https://www.drupal.org/project/varbase_media_assets/issues/3608868)).
+
+To add the two remote video samples to a site that is already installed and
+has working network access, apply the companion recipe explicitly:
+```bash
+drush recipe web/recipes/varbase_media_assets/remote_video_samples
+```
+(adjust the path to wherever Composer placed the `varbase_media_assets`
+recipe in your site, e.g. `recipes/varbase_media_assets/remote_video_samples`).
+If the command fails due to a transient network/provider issue, it is safe
+to simply retry it — it does not affect the rest of the site.
 
 ## Usage
 
