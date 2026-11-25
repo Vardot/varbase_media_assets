@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-11-25
+### Changed
+- Use caret constraints and allow Drupal 11.4 and later and Drupal 12 in Varbase Media Assets recipe ([#3621054](https://git.drupalcode.org/project/varbase_media_assets/-/work_items/3621054)).
+- Update the version badge to `1.0.1` in `README.md`.
+
 ## [1.0.0] - 2026-09-06
 ### Changed
 - Release the recipe with the Varbase 11.0.0 suite. No functional changes since 1.0.0-rc1.
@@ -33,7 +38,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial release of the Varbase Media Assets recipe.
 
-[Unreleased]: https://git.drupalcode.org/project/varbase_media_assets/-/compare/1.0.0...1.0.x
+[Unreleased]: https://git.drupalcode.org/project/varbase_media_assets/-/compare/1.0.1...1.0.x
+[1.0.1]: https://git.drupalcode.org/project/varbase_media_assets/-/compare/1.0.0...1.0.1
 [1.0.0]: https://git.drupalcode.org/project/varbase_media_assets/-/compare/1.0.0-rc1...1.0.0
 [1.0.0-rc1]: https://git.drupalcode.org/project/varbase_media_assets/-/compare/1.0.0-beta1...1.0.0-rc1
 [1.0.0-beta1]: https://git.drupalcode.org/project/varbase_media_assets/-/compare/1.0.0-alpha2...1.0.0-beta1
